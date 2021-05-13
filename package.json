@@ -1,7 +1,7 @@
 {
-  "name": "portfolio",
+  "name": "portfolio-https-csb-x387xvercelapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "-Sitio siempre en construcción, el movimiento es vida.                        \n-Site always under construction, movement is life.",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
