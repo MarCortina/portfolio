@@ -4,4 +4,21 @@
   font-family: "MedievalSharp", "Franklin Gothic Medium", "Arial Narrow", Arial,
     sans-serif;
   text-align: center;
+  /* background-image: url("./assets/mapa-bkg-1.png"); */
+}
+
+h1 {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  margin-left: 185vh;
+  color: white;
+  font-size: 10vh;
+  margin-top: 12vh;
+  text-shadow: 1px 1px 2px black;
+}
+
+.mapa-bkg {
+  object-fit: cover;
+  height: 200vh;
 }
