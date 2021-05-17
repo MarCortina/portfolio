@@ -1,16 +1,13 @@
-import "./styles.css";
-import mapa from "./assets/mapa-bkg-1.png";
+import Title from "./Title";
+import Mapa from "./Mapa";
 
 export default function App() {
   return (
     <div className="container">
       <div className="App">
-        <header>
-          <h1>Kingdom under construction</h1>
-        </header>
-        <img src={mapa} alt="mapa" className="mapa-bkg" />
+        <Title />
+        <Mapa />
       </div>
-      {console.log(mapa, "MAPA")}
     </div>
   );
 }
